@@ -1072,6 +1072,18 @@ a {
     .menu__item {
         font-size: 16px;
     }
+
+    .choices {
+        max-width: 320px;
+    }
+
+    .gallery__swiper {
+        max-width: 1000px;
+    }
+
+    .card {
+        max-height: 350px;
+    }
 }
 
 @media (max-width: 1024px) {
